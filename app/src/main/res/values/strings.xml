@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text">Thought of the day</string>
+    <string name="app_name">DailyThoughtScratchViewDemo</string>
+    <string name="scratch_text_view_demo">Scratch Text View Demo</string>
+    <string name="scratch_image_view_demo">Scratch Image View Demo</string>
+
+</resources>
