@@ -1,20 +1,29 @@
 
 # Awesome ScratchView  -  Android Library
   
-  
+[ ![Download](https://api.bintray.com/packages/gpfreetech/AwesomeScratchView/AwesomeScratchView/images/download.svg?version=1.0) ](https://bintray.com/gpfreetech/AwesomeScratchView/AwesomeScratchView/1.0/link)
+[ ![Bintray](https://img.shields.io/badge/Bintray-v1.0-red) ](https://bintray.com/gpfreetech/AwesomeScratchView/AwesomeScratchView/1.0/link)
+
+
+![Github Followers](https://img.shields.io/github/followers/govindapaliwal?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/govindapaliwal/Awesome-ScratchView?style=social)
+![GitHub forks](https://img.shields.io/github/forks/govindapaliwal/Awesome-ScratchView?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/govindapaliwal/Awesome-ScratchView?style=social)
+
 Introduction
 ------
 
 Awesome ScratchView is scratch cards like views which are scratched to reveal the information they hide. There
 are two types of ScratchView
-* <a href='https://github.com//views/ScratchImageView.java'> ScratchImageView </a>
+* <a href='https://github.com/GovindaPaliwal/Awesome-ScratchView/tree/master/AwesomeScratchView/src/main/java/com/gpfreetech/views/ScratchImageView.java'> ScratchImageView </a>
     - A Child of ImageView which hide the image. Scratching over the view will reveal the hidden image.
 
-* <a href='https://github.com//ScratchTextView.java'> ScratchTextView </a>
+* <a href='https://github.com/GovindaPaliwal/Awesome-ScratchView/tree/master/AwesomeScratchView/src/main/java/com/gpfreetech/views/ScratchTextView.java'> ScratchTextView </a>
     - A Child of TextView which hide the text. Scratching over the view will reveal the hidden text.
 
 Sample Screen
 ------
+![Thought Of The Day App Screen][image_sample]
 
 ### Methods
 
@@ -141,3 +150,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+[image_sample]:https://raw.githubusercontent.com/GovindaPaliwal/Awesome-ScratchView/master/screenshots/screen.gif
